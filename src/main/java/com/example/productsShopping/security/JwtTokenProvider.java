@@ -1,6 +1,5 @@
 package com.example.productsShopping.security;
 
-import jakarta.persistence.Id;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 import lombok.Value;
